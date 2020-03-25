@@ -18,7 +18,7 @@ Siga esses passos para executar a demonstração em um container:
 
 **Executando**
    - Pressione <kbd>F5</kbd> para iniciar o servidor no container.
-   - Inicie o navegador e abra a URL `http://localhost:3000`, o servidor estará rodando no container.
+   - Inicie o navegador e abra a URL `http://localhost:3333`, o servidor estará rodando no container.
 
 ## Origem
 
