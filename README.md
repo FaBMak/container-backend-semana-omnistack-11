@@ -1,30 +1,13 @@
-# Container para Desenvolvimento: Node.js
+# Semana OmniStack 11.0
 
-Este é um projeto de demonstração, contruído para usar a extensão **[VS Code Remote - Containers](https://aka.ms/vscode-remote/containers)**
+Repositório do Backend, desenvolvido durante a semana OmniStack 11.0.
 
-## Configurando o container de desenvolvimento
+## Utiliza o Container para Desenvolvimento: Node.js
 
-Siga esses passos para executar a demonstração em um container:
+Este projeto, foi construído usando o template **[vscode-remote-node
+](https://github.com/FaBMak/vscode-remote-node)**
 
-1. Se for sua primeira vez usando um container de desenvolvimento, por favor siga os [primeiros passos](https://aka.ms/vscode-remote/containers/getting-started).
-
-2. Para usar esse repositório:
-
-   - Clone o repositório para seu sistema local.
-   - Pressione <kbd>F1</kbd> e selecione o comando **Remote-Containers: Open Folder in Container...**.
-   - Selecione a pasta clonada, espere o container iniciar, e mãos-à-obra!
-
-> **Nota:** Este container executa como usuário não-root, com acesso sudo por padrão. Comente `"remoteUser": "node"` em `.devcontainer/devcontainer.json` se preferir executar como root.
-
-**Executando**
-   - Pressione <kbd>F5</kbd> para iniciar o servidor no container.
-   - Inicie o navegador e abra a URL `http://localhost:3333`, o servidor estará rodando no container.
-
-## Origem
-
-Baseado no projeto [Node.js da Microsoft](https://github.com/Microsoft/vscode-remote-try-node).
-
-Alterado apenas a estrutura e inclusão do Nodemon.
+Visite o projeto e siga as instruções, para executar o Node.js em um container Docker.
 
 ## Licença
 
